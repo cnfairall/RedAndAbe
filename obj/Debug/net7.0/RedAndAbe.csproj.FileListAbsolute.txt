@@ -1,0 +1,14 @@
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\bin\Debug\net7.0\RedAndAbe.exe
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\bin\Debug\net7.0\RedAndAbe.deps.json
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\bin\Debug\net7.0\RedAndAbe.runtimeconfig.json
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\bin\Debug\net7.0\RedAndAbe.dll
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\bin\Debug\net7.0\RedAndAbe.pdb
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\obj\Debug\net7.0\RedAndAbe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\obj\Debug\net7.0\RedAndAbe.AssemblyInfoInputs.cache
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\obj\Debug\net7.0\RedAndAbe.AssemblyInfo.cs
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\obj\Debug\net7.0\RedAndAbe.csproj.CoreCompileInputs.cache
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\obj\Debug\net7.0\RedAndAbe.dll
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\obj\Debug\net7.0\refint\RedAndAbe.dll
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\obj\Debug\net7.0\RedAndAbe.pdb
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\obj\Debug\net7.0\RedAndAbe.genruntimeconfig.cache
+C:\Users\coura\workspace\foundations\csharp\RedAndAbe\obj\Debug\net7.0\ref\RedAndAbe.dll
